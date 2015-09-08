@@ -1,0 +1,8 @@
+{
+  "name": "Yepit",
+  "version": "0.0.1",
+  "description": "My diplom work",
+  "main": "app.js",
+  "author": "Pavel",
+  "license": "ISC"
+}
